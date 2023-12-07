@@ -16,6 +16,7 @@ Look in the respiratory to find answers. Each solution is contained in a separat
 Found a better solution or want to add a new challenge? Contributions are welcome! 
 
 ### License
-This repository is licensed under the MIT License, so feel free to use, modify, and share the code.
+This repository is licensed under the [MIT License](https://github.com/rnzbrk/R-HackerRank-Solutions/blob/main/LICENSE), so feel free to use, modify, and share the code.
 
 Happy coding! 🎉
+
