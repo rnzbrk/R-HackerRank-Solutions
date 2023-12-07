@@ -12,3 +12,4 @@ divisibleSumPairs <- function(n, k, ar) {
   
   return(n_tot)
 }
+ 
